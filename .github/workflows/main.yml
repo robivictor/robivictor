@@ -2,7 +2,7 @@
 name: Metrics
 on:
   # Schedule updates (each Sunday noon)
-  schedule: [{cron: 0 12 * * 0"}]
+  schedule: [{cron: "0 12 * * 0"}]
   # Lines below let you run workflow manually and on each commit
   workflow_dispatch:
   push: {branches: ["main"]}
@@ -28,6 +28,8 @@ jobs:
           user: robivictor
           template: classic
           base: header, activity, community
+          base_indepth: yes
+          config_display: columns
           config_timezone: America/Los_Angeles
           config_twemoji: yes
           plugin_code: yes
