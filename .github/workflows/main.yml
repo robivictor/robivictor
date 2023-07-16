@@ -41,6 +41,7 @@ jobs:
           plugin_languages_recent_days: 14
           plugin_languages_recent_load: 400
           plugin_languages_sections: most-used, recently-used
+          plugin_languages_ignored: html,css,javascript, c#, asp
           plugin_languages_threshold: 0%
           plugin_habits: yes
           plugin_habits_facts: yes
