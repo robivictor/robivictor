@@ -2,11 +2,11 @@
 
 **`Software Engineer ( Full-Stack Developer / Cloud Architect / Builder )`**
 
-Senior Software Engineer at Microsoft with over a decade of experience building software that matters. I work on Azure services, designing testing frameworks and CLI tools for Operator-Nexus, bridging OpenStack and Azure Cloud through Azure Arc. My journey has taken me across telecom, health-tech, and non-profit sectors — from migrating legacy systems at AT&T to building EHR platforms at Orbit Health to crafting discipleship tools at Cru. I'm passionate about distributed systems, cloud infrastructure, and turning complex problems into elegant solutions. Whether it's microservices, automation pipelines, or full-stack applications, I believe great software is built with intention and purpose.
+Software engineer with over a decade of experience building solutions across health-tech, telecom, cloud infrastructure, and non-profit sectors. Passionate about distributed systems, automation, and turning complex problems into elegant software.
 
    <p align="left">
       <div id="badges">
-        <a href="https://www.linkedin.com/in/robel-tessema-74624414b/">
+        <a href="https://www.linkedin.com/in/robelherarso/">
           <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
         </a>
         <a href="https://robeltessema.com">
@@ -14,6 +14,20 @@ Senior Software Engineer at Microsoft with over a decade of experience building 
         </a>
       </div>
    </p>
+
+---
+
+### 🏢 Experience
+
+- **Western Governors University** — Senior Full Stack Engineer *(current)*
+- **Microsoft** — Senior Software Engineer
+- **AT&T** — Senior Software Engineer
+- **Orbit Health** — Lead Software Engineer / Senior Full Stack Engineer
+- **JSI (John Snow Inc.)** — Software Engineering Consultant
+- **Cru** — IT Consultant
+- **Victorshub Software Systems** — Founder & Senior Software Engineer
+- **Edge Computing** — Software Engineer
+- **CNET Software** — Intern Engineer
 
 ---
 
