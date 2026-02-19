@@ -2,7 +2,7 @@
 
 **`Software Engineer ( Full-Stack Developer / Cloud Architect / Builder )`**
 
-Software engineer with over a decade of experience building solutions across health-tech, telecom, cloud infrastructure, and non-profit sectors. Passionate about distributed systems, automation, and turning complex problems into elegant software.
+Software engineer with over a decade of experience building solutions across health-tech, telecom, cloud infrastructure, and non-profit sectors. Currently a Senior Full Stack Engineer at Western Governors University, previously at Microsoft and AT&T. Passionate about distributed systems, automation, and turning complex problems into elegant software.
 
    <p align="left">
       <div id="badges">
@@ -14,20 +14,6 @@ Software engineer with over a decade of experience building solutions across hea
         </a>
       </div>
    </p>
-
----
-
-### 🏢 Experience
-
-- **Western Governors University** — Senior Full Stack Engineer *(current)*
-- **Microsoft** — Senior Software Engineer
-- **AT&T** — Senior Software Engineer
-- **Orbit Health** — Lead Software Engineer / Senior Full Stack Engineer
-- **JSI (John Snow Inc.)** — Software Engineering Consultant
-- **Cru** — IT Consultant
-- **Victorshub Software Systems** — Founder & Senior Software Engineer
-- **Edge Computing** — Software Engineer
-- **CNET Software** — Intern Engineer
 
 ---
 
